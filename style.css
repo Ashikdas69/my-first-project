@@ -3,18 +3,19 @@ body{
     margin: 0;
 }
 .section1{
-    background-image: url(avg2.webp);
+    background-image: url(flood.jpg);
     text-align: center;
     background-attachment: fixed;
     height: 250px;
     background-size: contain;
+    background-repeat: no-repeat;
 }
 .resize{
-    color: rgba(124, 8, 66, 0.877);
+    color: rgb(230, 101, 247);
     padding-top: 40px;
 }
 .tag-p1{
-    color: #166A8F;
+    color: #97daf7;
 }
 
 .link-border{
@@ -23,4 +24,42 @@ body{
     padding: 5px 10px;
     border-radius: 5px;
     color: pink;
+    font-size: 13px;
+}
+#flood-condition{
+    background-color: rgb(247, 242, 243);
+}
+.section-2{
+    display: flex;
+    margin-top: 5px;
+    
+}
+.div-class{
+    width: 50%;
+    margin-left: 20px;
+}
+.div-class img{
+    width: 60%;
+    height: 230px;
+    padding-top: 4px;
+    margin-left: 120px;
+}
+.p-tag{
+  color: #eba40d;
+}
+.section-3{
+    display: flex;
+    margin-top: 30px;
+    
+}
+.div-class-1{
+    width: 50%;
+    margin-left: 60px;
+}
+.div-class-1 img{
+    width: 65%;
+    height: 230px;
+    padding-top: 4px;
+    margin-left: 8px;
+
 }
