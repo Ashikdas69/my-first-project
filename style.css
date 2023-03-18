@@ -109,3 +109,40 @@ margin-left: 250px;
     font-size: 13px;
 }
 
+.section-5{
+    display: flex;
+    margin: 5px;
+}
+.donate-plan{
+    width: 25%;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-left: 30px;
+    padding: 7px;
+    margin-bottom: 50px;
+}
+.donate-plan img{
+    width: 25%;
+   
+}
+.donate-plan p{
+    font-size: 12px;
+    color:  #4490b1;;
+
+}
+#provide-food{
+    box-shadow: 10px 10px 10px  gray;
+    background-color: rgba(232, 241, 232, 0.89);
+}
+#provide-shelter{
+    box-shadow: 10px 10px 10px  gray;
+    background-color: rgba(207, 203, 198, 0.932);
+
+}
+#provide-treatment{
+    box-shadow: 10px 10px 10px gray;
+    background-color: rgba(31, 248, 255, 0.774);
+}
+    
+
+
