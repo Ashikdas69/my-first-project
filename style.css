@@ -28,6 +28,7 @@ body{
 }
 #flood-condition{
     background-color: rgb(247, 242, 243);
+    margin-bottom: 50px;
 }
 .section-2{
     display: flex;
@@ -63,3 +64,48 @@ body{
     margin-left: 8px;
 
 }
+.section-4{
+    text-align:center;
+    margin-bottom: 30px;
+}
+.tag-p2{
+    color: rgb(223, 91, 91);
+    font-size: 12px;
+
+}
+#nav-manu{
+margin-left: 250px;
+    
+}
+#nav-manu ul li{
+    list-style-type: none;
+    margin: 10px;
+    float: left;
+    color: rgb(43, 106, 146);
+    font-size: 14px;
+}
+#nav-manu ul li a{
+    text-decoration: none;
+    color: rgb(43, 106, 146);
+    font-size: 12px;
+    border: 2px rgb(238, 139, 121) solid;
+    padding: 10px;
+}
+#nav-manu ul li a:hover{
+    background-color: rgba(149, 187, 211, 0.897);
+    color: rgba(110, 2, 29, 0.877);
+
+}
+.empty{
+    color: rgb(111, 178, 180);
+    padding-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.empty hr{
+    width: 500px;
+}
+.empty p{
+    font-size: 13px;
+}
+
